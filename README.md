@@ -5,4 +5,4 @@ Ensuite je me suis ensuite lancé dans l'affichage dynamique (animation avec Mat
 afin qu'ils défilent en fonction du temps tel un oscilloscope (voir Histo Control). 
 
 ![Instantané de l'animation](./From_Function_To_Bezier_Curve.png)
-![Animation](./Animation%20Bezier.mp4)
+[Ici la vidéo de l'animation](./Animation%20Bezier.mp4)
