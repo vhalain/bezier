@@ -4,3 +4,5 @@ Au début de mon apprentissage comme développeur orienté IA, je ne connaissais
 Une fois réalisé, je me suis ensuite lancé dans l'affichage dynamique (animation avec Matplotlib) d'une fonction et de son équivalence en courbe de Bézier. Durant l'affichage de cette fonction, j'affiche également sous forme graphique l'ensemble des paramètres appliqués pour les courbes de Bézier équivalentes à chaque instant t (voir Bezier Result). Le défi dans ce cas a été d'obtenir une représentation graphique afin que ces paramètres défilent en fonction du temps tel un oscilloscope (voir Histo Control). 
 
 ![Instantané de l'animation](./AnimationBezier.gif)
+![Gif animé créé très facilement avec ezgif.com](https://ezgif.com/)
+ 
