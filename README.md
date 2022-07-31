@@ -1,9 +1,9 @@
 # bezier
-Au début de mon apprentissage comme développeur orienté IA, je ne connaissais rien des librairies Numpy et Matplotlib. Afin de m'entraîner à les utiliser, je me suis lancé le défit de retravailler du code en Python  d'algorithmes de courbes de Bezier existants (fitting et construct). Je me suis particulièrement focalisé sur l'utilisation de Numpy et les possibles améliorations du code, il me fallait le rendre plus 'propre' et surtout plus efficace. Cela a représenté un gros travail de retroingénérie et de reconstruction. Comme vous pouvez l'imaginer, si les résultats sont bien ceux attendus, l'approche algorithmique originale et le code finalement produit n'ont plus rien de comparable. 
+At the beginning of my learning as an AI-oriented developer, I knew nothing about the Numpy and Matplotlib libraries. In order to practice using them, I launched the challenge to rework the code in Python of existing Bezier curve algorithms (fitting et construct). I particularly focused on the use of Numpy and possible code improvements, I had to make it cleaner and more efficient. This has been a big work of retroingenuity and reconstruction. As you can imagine, whether the results are the ones expected, the original algorithmic approach and the code finally produced have nothing more comparable. 
 
-Une fois réalisé, je me suis ensuite lancé dans l'affichage dynamique (animation avec Matplotlib) d'une fonction et de son équivalence en courbe de Bézier. Durant l'affichage de cette fonction, j'affiche également sous forme graphique l'ensemble des paramètres appliqués pour les courbes de Bézier équivalentes à chaque instant t (voir Bezier Result). Le défi dans ce cas a été d'obtenir une représentation graphique afin que ces paramètres défilent en fonction du temps tel un oscilloscope (voir Histo Control). 
+Once done, I started dynamic display with Matplotlib animation of one function and its equivalence in Bézier curve. During the display of this function, I also display graphically all the parameters applied for the Bézier curves (see Bezier Result). The challenge in this case was to obtain a graphical representation so that these parameters scroll as an oscilloscope (see Histo Control). 
 
-![Instantané de l'animation](./AnimationBezier.gif)
+![animation](./AnimationBezier.gif)
 
-[Gif animé créé avec ezgif.com](https://ezgif.com)
+[animate Gif makes with ezgif.com](https://ezgif.com)
  
